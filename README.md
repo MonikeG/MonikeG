@@ -6,7 +6,7 @@
 
 🧪Graduated in Chemistry Msc in Environmental Science and Technology<br>
 🧙‍♀️AI student at PUC-Minas (aug, 2023)<br>
-🔭 I’m currently looking for an data analyst/scientist position<br>
+🔭 Data Analyst at BClouder
 
 🧬I have experience in molecular biology and synthetic biology and I really like to work with biological data and bioinformatics. So feel free to contact me about side projects on this area. 
 
